@@ -42,7 +42,7 @@ public class Baseclass {
 	@AfterClass
 	public void close()
 	{
-		driver.close();
+		
 	}
 
 }
